@@ -33,3 +33,13 @@ p{
     margin-top: 20px;
     width: 100%;
 }
+
+.attribution {
+    font-size: 11px;
+    text-align: center;
+    padding-top: 40px;
+  }
+
+  .attribution a {
+    color: hsl(228, 45%, 44%);
+  }
